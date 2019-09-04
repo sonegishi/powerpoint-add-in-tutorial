@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointAddInTutorial", "PowerPointAddInTutorial\PowerPointAddInTutorial.csproj", "{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointAddInTutorialWeb", "PowerPointAddInTutorialWeb\PowerPointAddInTutorialWeb.csproj", "{1C550FFB-5D95-48A3-A86B-6FDD1FD14A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE366FF-CE43-4AAB-ABB8-35F64D883D55}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1C550FFB-5D95-48A3-A86B-6FDD1FD14A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C550FFB-5D95-48A3-A86B-6FDD1FD14A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C550FFB-5D95-48A3-A86B-6FDD1FD14A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C550FFB-5D95-48A3-A86B-6FDD1FD14A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3406352D-ACD6-4861-95BD-F5B380CAB85B}
+	EndGlobalSection
+EndGlobal
